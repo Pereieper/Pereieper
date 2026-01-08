@@ -1,5 +1,4 @@
 # Hi there 👋
-Welcome to my GitHub profile!
 
 🌱 **Currently studying at CTU-Consolacion Campus**  
 💻 **Interested in Web & Mobile App Development**  
