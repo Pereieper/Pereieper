@@ -1,9 +1,11 @@
 ## Hi there 👋
-
 Welcome to my GitHub profile!  
 
-- 🌱 Currently studying at CTU-Consolacion Campus  
-- 💻 Interested in Web & Mobile App Development 
+🌱 **Currently studying at CTU-Consolacion Campus**  
+💻 **Interested in Web & Mobile App Development**  
+
+✨ Always learning, coding, and building cool projects!
+
 
 <!--
 **Pereieper/Pereieper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
