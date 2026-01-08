@@ -8,7 +8,7 @@
 
 ## 📊 GitHub Stats
 
-![Jennyfer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=george0st&show_icons=true&theme=radical)
+![Jennyfer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=perpeieper&show_icons=true&theme=radical)
 
 
 
