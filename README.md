@@ -1,8 +1,6 @@
 # Hi there 👋
 Welcome to my GitHub profile!
 
-![Coding GIF](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
-
 🌱 **Currently studying at CTU-Consolacion Campus**  
 💻 **Interested in Web & Mobile App Development**  
 ✨ **Always learning, coding, and building cool projects!**
