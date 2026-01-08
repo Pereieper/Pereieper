@@ -1,10 +1,19 @@
-## Hi there 👋
-Welcome to my GitHub profile!  
+# Hi there 👋
+Welcome to my GitHub profile!
 
 🌱 **Currently studying at CTU-Consolacion Campus**  
 💻 **Interested in Web & Mobile App Development**  
+✨ **Always learning, coding, and building cool projects!**
 
-✨ Always learning, coding, and building cool projects!
+---
+
+## 🛠️ Languages & Technologies I’ve Learned
+- Python 🐍
+- HTML5 🌐
+- CSS3 🎨
+- PHP 💻
+- PostgreSQL 🗄️
+
 
 
 <!--
